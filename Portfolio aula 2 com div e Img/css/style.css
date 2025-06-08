@@ -1,0 +1,14 @@
+h1 {
+  font-size: 30px;
+  text-align: center ;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 2px;
+  color: rgb(18, 20, 75);
+  
+
+}
